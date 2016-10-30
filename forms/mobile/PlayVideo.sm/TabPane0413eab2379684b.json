@@ -1,0 +1,118 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizTabPane",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_activeTabsBackUp": [
+        0
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_top_": {
+        "type": "string",
+        "value": "320dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "activeskin": "s88b81bdcd184de7813ac28cb96aeaa7",
+    "activetab": 0,
+    "activetabs": [
+        0
+    ],
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "Tab0cc8e7ba0ccde40"
+    ],
+    "collapsedimage": "",
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "PlayVideo",
+        "platform": "iphone",
+        "tabpaneID": "",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "expandedimage": "",
+    "id": "TabPane0413eab2379684b",
+    "imageposition": "right",
+    "inactiveskin": "s783ccec452648808b3601a70e7021ce",
+    "info": null,
+    "isvisible": true,
+    "kuid": "0c67cc841105459ebd462af868e6f19b",
+    "layouttype": 0,
+    "margininpixel": false,
+    "name": "kony.ui.TabPane",
+    "paddinginpixel": false,
+    "parent": "PlayVideo",
+    "pf": "PlayVideo",
+    "screenlevelwidget": false,
+    "tabnamealignment": "left",
+    "toggletabs": false,
+    "viewconfig": {
+        "collapsibleViewConfig": {
+            "collapsedImage": "",
+            "collapsedimage": "",
+            "expandedImage": "",
+            "expandedimage": "",
+            "imagePosition": "right",
+            "imageposition": "right",
+            "tabNameAlignment": "left",
+            "tabnamealignment": "left",
+            "toggleTabs": false,
+            "toggletabs": false
+        },
+        "collapsibleviewconfig": {
+            "collapsedImage": "",
+            "collapsedimage": "",
+            "expandedImage": "",
+            "expandedimage": "",
+            "imagePosition": "right",
+            "imageposition": "right",
+            "tabNameAlignment": "left",
+            "tabnamealignment": "left",
+            "toggleTabs": false,
+            "toggletabs": false
+        },
+        "pageViewConfig": {
+            "needPageIndicator": true,
+            "pageOffDotImage": "",
+            "pageOnDotImage": ""
+        },
+        "panoramaViewConfig": {
+            "panoramaImage": "",
+            "panoramaTitle": "",
+            "panoramaTitleImage": ""
+        },
+        "tabViewConfig": {
+            "headerPosition": "top",
+            "image1": "tableftarrow.png",
+            "image2": "tabrightarrow.png"
+        }
+    },
+    "viewtype": "tabview",
+    "wType": "TabPane",
+    "zindex": 1
+}

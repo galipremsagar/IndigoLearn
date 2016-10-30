@@ -25,7 +25,10 @@
         }
     },
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "Videotemp",
+        "TabPane0413eab2379684b"
+    ],
     "containerweight": 100,
     "currentLocale": "default",
     "desktopweb": {
