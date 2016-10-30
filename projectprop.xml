@@ -28,4 +28,8 @@
     <attributes name="appnamekey" value="IndigoLearn"/>
     <attributes name="iospopuptransitioncorrection" value="true"/>
     <attributes name="marginsincludedinwidgetcontainerweight" value="true"/>
+    <attributes name="APPLICATION_THEME" value="default"/>
+    <attributes name="SELECTED_THEME" value="default"/>
+    <attributes name="Server side mobile web" value="false"/>
+    <attributes name="androidenablejsbindings" value="false"/>
 </properties>
